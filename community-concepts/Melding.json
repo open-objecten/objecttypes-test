@@ -1,0 +1,1 @@
+{"type": "object", "title": "Melding", "$schema": "http://json-schema.org/draft-07/schema#", "required": ["description"], "properties": {"description": {"type": "string", "description": "Explanation what happened"}}}
